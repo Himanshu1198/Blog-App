@@ -1,6 +1,4 @@
-# Live Link
-https://blog-app-beta-liard.vercel.app/
-
+# Blog application utlizing feature rich text editor in frontned
 # Login
 ![image](https://github.com/Himanshu1198/BlogApp/assets/143578896/d741666d-836c-4553-ab39-69657496366f)
 
